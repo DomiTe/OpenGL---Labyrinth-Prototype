@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\GLwindow.h(16,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\GLwindow.h(17,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\main.cpp(28,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\main.cpp(73,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\main.cpp(297,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  OpenGLcourse.vcxproj -> C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\x64\Debug\OpenGLcourse.exe
