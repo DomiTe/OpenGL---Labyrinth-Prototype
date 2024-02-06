@@ -8,4 +8,5 @@ C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\Open
 C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\main.cpp(28,33): warning C4305: 'initializing': truncation from 'double' to 'float'
 C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\main.cpp(73,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
 C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\OpenGLcourse\main.cpp(297,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   OpenGLcourse.vcxproj -> C:\Users\domit\Documents\Visual Studio 2022\Projects\OpenGL_UNI - LABY_DONE\x64\Debug\OpenGLcourse.exe

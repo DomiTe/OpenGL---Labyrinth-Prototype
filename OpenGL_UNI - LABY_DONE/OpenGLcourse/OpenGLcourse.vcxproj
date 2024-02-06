@@ -149,6 +149,7 @@
     <ClCompile Include="PointLight.cpp" />
     <ClCompile Include="Shader.cpp" />
     <ClCompile Include="GLwindow.cpp" />
+    <ClCompile Include="ShadowMap.cpp" />
     <ClCompile Include="SpotLight.cpp" />
     <ClCompile Include="Texture.cpp" />
   </ItemGroup>
@@ -162,6 +163,7 @@
     <ClInclude Include="PointLight.h" />
     <ClInclude Include="Shader.h" />
     <ClInclude Include="GLwindow.h" />
+    <ClInclude Include="ShadowMap.h" />
     <ClInclude Include="SpotLight.h" />
     <ClInclude Include="Texture.h" />
     <ClInclude Include="Values.h" />
